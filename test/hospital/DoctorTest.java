@@ -15,7 +15,7 @@ import static org.junit.Assert.*;
  * @author Richs
  */
 public class DoctorTest {
-    /* test */
+    /** test **/
     public DoctorTest() {
     }
     
